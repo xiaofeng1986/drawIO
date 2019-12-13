@@ -1,14 +1,14 @@
-<mxfile host="www.draw.io" modified="2019-12-13T06:29:19.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1c8_ELo-1T-kK8xBUskn" version="12.4.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-13T07:08:03.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_cN6CTnXDKntGHiAxTYo" version="12.4.1" type="github" pages="1">
   <diagram id="vi_ECuAuSyeIwbxBarB6" name="图像中台S8-关键路径">
-    <mxGraphModel dx="1116" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="mSEuSrlhZHySXVAviKyT-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="540" width="690" height="220" as="geometry"/>
+        <mxCell id="mSEuSrlhZHySXVAviKyT-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="990" y="540" width="530" height="220" as="geometry"/>
         </mxCell>
-        <mxCell id="mSEuSrlhZHySXVAviKyT-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="720" height="520" as="geometry"/>
+        <mxCell id="mSEuSrlhZHySXVAviKyT-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="710" height="520" as="geometry"/>
         </mxCell>
         <mxCell id="mSEuSrlhZHySXVAviKyT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mSEuSrlhZHySXVAviKyT-8">
           <mxGeometry relative="1" as="geometry">
