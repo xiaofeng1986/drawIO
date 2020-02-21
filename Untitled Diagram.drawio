@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-21T07:54:38.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="JzJjgvV5L8s5AWeW-zVH" version="12.7.2" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-21T08:21:41.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="sPeJ6JLJRsAlE6pv92nt" version="12.7.2" type="github" pages="6">
   <diagram id="vi_ECuAuSyeIwbxBarB6" name="图像中台模板">
     <mxGraphModel dx="1328" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -835,7 +835,7 @@
           <mxGeometry x="940" y="380" width="540" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
-          <mxGeometry x="470" y="380" width="440" height="440" as="geometry" />
+          <mxGeometry x="470" y="380" width="440" height="460" as="geometry" />
         </mxCell>
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ViEyEU2S0G6ttFKjN_TM-1" source="ViEyEU2S0G6ttFKjN_TM-20" target="ViEyEU2S0G6ttFKjN_TM-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -871,7 +871,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ViEyEU2S0G6ttFKjN_TM-9" value="前后端联调&lt;br&gt;&lt;br&gt;&amp;nbsp;2 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
+        <mxCell id="ViEyEU2S0G6ttFKjN_TM-9" value="最后一个故事前后端联调&lt;br&gt;&lt;br&gt;&amp;nbsp;2 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="780" y="420" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-27" value="&lt;b&gt;首页性能测试和调优&lt;/b&gt;&lt;br&gt;&lt;br&gt;？？ 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
@@ -924,8 +924,8 @@
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-20" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="350" y="440" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tyNyDHK6YmKQfE8l7z_N-0" value="&lt;div&gt;牛彪 23.5天&lt;/div&gt;&lt;div&gt;1. 6天-【首页】仪表盘1.1功能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 7.5天-【人工+结果+异常列表页】根据数据权限列表筛选项+详情页的场景区分&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.7.5天-【配置中心2.0】数据流配置页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;align=left;" vertex="1" parent="ViEyEU2S0G6ttFKjN_TM-1">
-          <mxGeometry x="510" y="690" width="290" height="110" as="geometry" />
+        <mxCell id="tyNyDHK6YmKQfE8l7z_N-0" value="&lt;div&gt;牛彪 23.5天&lt;/div&gt;&lt;div&gt;1. 6天-【首页】仪表盘1.1功能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 7.5天-【人工+结果+异常列表页】根据数据权限列表筛选项+详情页的场景区分&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 2.5天-【对外输出接口】对外输出接口根据场景区分&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.7.5天-【配置中心2.0】数据流配置页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;align=left;" vertex="1" parent="ViEyEU2S0G6ttFKjN_TM-1">
+          <mxGeometry x="520" y="690" width="290" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
