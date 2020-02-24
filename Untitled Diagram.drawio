@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-21T12:35:15.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="Iix_ocCzRefBVArflbAy" version="12.7.2" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-24T03:06:20.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="i7HdRE4HA57NsZ9WdAHT" version="12.7.4" type="github" pages="6">
   <diagram id="vi_ECuAuSyeIwbxBarB6" name="图像中台模板">
-    <mxGraphModel dx="1328" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -827,7 +827,7 @@
     
   </diagram>
   <diagram name="图像中台S10-关键路径" id="ZOVvXyg_6TlabxcKM8Xw">
-    <mxGraphModel dx="458" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-0" />
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-1" parent="ViEyEU2S0G6ttFKjN_TM-0" />
@@ -880,7 +880,7 @@
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ViEyEU2S0G6ttFKjN_TM-1" source="ViEyEU2S0G6ttFKjN_TM-11" target="ViEyEU2S0G6ttFKjN_TM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ViEyEU2S0G6ttFKjN_TM-11" value="最后一个故事功能测试&lt;br&gt;&lt;br&gt;&amp;nbsp;天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
+        <mxCell id="ViEyEU2S0G6ttFKjN_TM-11" value="最后一个故事功能测试&lt;br&gt;&lt;br&gt;0.5 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="980" y="420" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ViEyEU2S0G6ttFKjN_TM-1" source="ViEyEU2S0G6ttFKjN_TM-13" edge="1">
@@ -903,7 +903,7 @@
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-15" value="前端开发&lt;br&gt;12 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="545" y="560" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ViEyEU2S0G6ttFKjN_TM-16" value="上线&lt;br&gt;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
+        <mxCell id="ViEyEU2S0G6ttFKjN_TM-16" value="上线&lt;br&gt;&amp;nbsp;28.5 天" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="1510" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;opacity=0;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
@@ -924,7 +924,7 @@
         <mxCell id="ViEyEU2S0G6ttFKjN_TM-20" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="350" y="440" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tyNyDHK6YmKQfE8l7z_N-0" value="&lt;div&gt;牛彪 21天&lt;/div&gt;&lt;div&gt;1. 6天-【首页】仪表盘1.1功能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 7.5天-【人工+结果+异常列表页】根据数据权限列表筛选项+详情页的场景区分&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.7.5天-【配置中心2.0】数据流配置页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;align=left;" vertex="1" parent="ViEyEU2S0G6ttFKjN_TM-1">
+        <mxCell id="tyNyDHK6YmKQfE8l7z_N-0" value="&lt;div&gt;牛彪 21天&lt;/div&gt;&lt;div&gt;1. 6天-【首页】仪表盘1.1功能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 7.5天-【人工+结果+异常列表页】根据数据权限列表筛选项+详情页的场景区分&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.7.5天-【配置中心2.0】数据流配置页面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;align=left;" parent="ViEyEU2S0G6ttFKjN_TM-1" vertex="1">
           <mxGeometry x="520" y="690" width="290" height="140" as="geometry" />
         </mxCell>
       </root>
