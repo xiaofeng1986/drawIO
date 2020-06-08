@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-08T07:59:28.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="IHLpG-Vjg-zK9MC1JtXv" version="13.0.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-06-08T10:22:54.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="v19F3d8gQW_Yyt6Abkpt" version="13.0.9" type="github" pages="9">
   <diagram id="vi_ECuAuSyeIwbxBarB6" name="图像中台模板">
     <mxGraphModel dx="1662" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1358,7 +1358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4i-OrCv2qtRklkphNaPH-6" value="后端开发 (建军）&lt;br&gt;13 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
+        <mxCell id="4i-OrCv2qtRklkphNaPH-6" value="后端开发 (建军，牛彪）&lt;br&gt;12.5 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
           <mxGeometry x="550" y="420" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4i-OrCv2qtRklkphNaPH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4i-OrCv2qtRklkphNaPH-1" source="4i-OrCv2qtRklkphNaPH-6" target="4i-OrCv2qtRklkphNaPH-9">
@@ -1375,7 +1375,7 @@
         <mxCell id="4i-OrCv2qtRklkphNaPH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4i-OrCv2qtRklkphNaPH-1" source="4i-OrCv2qtRklkphNaPH-11" target="4i-OrCv2qtRklkphNaPH-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4i-OrCv2qtRklkphNaPH-11" value="最后一个故事功能测试&lt;br&gt;&lt;br&gt;1 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
+        <mxCell id="4i-OrCv2qtRklkphNaPH-11" value="最后一个故事功能测试&lt;br&gt;&lt;br&gt;2 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
           <mxGeometry x="980" y="420" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4i-OrCv2qtRklkphNaPH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4i-OrCv2qtRklkphNaPH-1" source="4i-OrCv2qtRklkphNaPH-13">
@@ -1395,10 +1395,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4i-OrCv2qtRklkphNaPH-15" value="前端开发 （孟洁）&lt;br&gt;8 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
+        <mxCell id="4i-OrCv2qtRklkphNaPH-15" value="前端开发 （孟杰，永洁）&lt;br&gt;10.5 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
           <mxGeometry x="545" y="560" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4i-OrCv2qtRklkphNaPH-16" value="上线&lt;br&gt;&amp;nbsp;19 天" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
+        <mxCell id="4i-OrCv2qtRklkphNaPH-16" value="上线&lt;br&gt;&amp;nbsp;19.5 天" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
           <mxGeometry x="1510" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4i-OrCv2qtRklkphNaPH-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;opacity=0;" vertex="1" parent="4i-OrCv2qtRklkphNaPH-1">
