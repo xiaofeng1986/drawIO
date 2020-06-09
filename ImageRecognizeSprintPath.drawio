@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T01:02:15.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="nf9JlX4u6AyyI8l_mASp" version="13.1.14" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-06-09T01:08:47.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="alcyHEPp-3V_GPd73_jW" version="13.1.14" type="github" pages="10">
   <diagram id="vi_ECuAuSyeIwbxBarB6" name="图像中台模板">
     <mxGraphModel dx="854" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1427,8 +1427,11 @@
       <root>
         <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-0" />
         <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-1" parent="XF1Xx6lFxnwCjJ_8XSJr-0" />
+        <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
+          <mxGeometry x="475" y="220" width="430" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
-          <mxGeometry x="470" y="50" width="440" height="320" as="geometry" />
+          <mxGeometry x="480" y="60" width="430" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
           <mxGeometry x="940" y="380" width="540" height="320" as="geometry" />
@@ -1505,18 +1508,18 @@
         <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-22" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
           <mxGeometry x="350" y="440" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-23" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IR-1089【人工审核】手动批量审核-场景拆分 独立分支 提前发版&lt;br&gt;&lt;br&gt;殷建军（3），孙孟杰（3），左琦（2）&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
+        <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-23" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IR-1089【人工审核】手动批量审核-场景拆分 独立分支 提前发版&lt;br&gt;&lt;br&gt;殷建军（3），孙孟杰（3），左琦（2）&lt;br&gt;&lt;br&gt;5 天&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
           <mxGeometry x="500" y="80" width="392.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-24" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IR-1035&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;【后端技术任务】apollo配置中心上生产环境 独立分支 提前发版&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;任春宝（1），王秋丽（2）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
-          <mxGeometry x="500" y="210" width="390" height="110" as="geometry" />
+        <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-24" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;IR-1035&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;【后端技术任务】apollo配置中心上生产环境 独立分支 提前发版&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;任春宝（1），王秋丽（2）&lt;br&gt;&lt;br&gt;3天&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1">
+          <mxGeometry x="495" y="235" width="390" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XF1Xx6lFxnwCjJ_8XSJr-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XF1Xx6lFxnwCjJ_8XSJr-1" source="XF1Xx6lFxnwCjJ_8XSJr-22" target="XF1Xx6lFxnwCjJ_8XSJr-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="430" as="sourcePoint" />
             <mxPoint x="520" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="265" />
+              <mxPoint x="400" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
