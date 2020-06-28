@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T07:49:06.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="DZzRLf5E81EYikSYc66j" version="13.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-28T08:16:59.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="_vkBY1fFbCj9WJYll8T4" version="13.3.5" type="github" pages="2">
   <diagram id="s33BEsmGWGS7mWIy-5hT" name="Sprint27">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
           <mxGeometry x="995" y="210" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wUmFSTrWnR9z2WbMB7JU-30" value="S27 新增需求 完成&lt;br&gt;&lt;br&gt;6天&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="wUmFSTrWnR9z2WbMB7JU-1">
-          <mxGeometry x="1510" y="20" width="130" height="60" as="geometry" />
+          <mxGeometry x="1520" y="30" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wUmFSTrWnR9z2WbMB7JU-33" value="最后一个故事前后端联调&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="wUmFSTrWnR9z2WbMB7JU-1">
           <mxGeometry x="980" y="420" width="100" height="100" as="geometry" />
@@ -320,6 +320,11 @@
         </mxCell>
         <mxCell id="wUmFSTrWnR9z2WbMB7JU-53" value="1.5天提测" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="wUmFSTrWnR9z2WbMB7JU-1">
           <mxGeometry x="920" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wUmFSTrWnR9z2WbMB7JU-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wUmFSTrWnR9z2WbMB7JU-1" source="wUmFSTrWnR9z2WbMB7JU-56" target="wUmFSTrWnR9z2WbMB7JU-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wUmFSTrWnR9z2WbMB7JU-56" value="UAT 测试&lt;br&gt;&lt;br&gt;1 天" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="wUmFSTrWnR9z2WbMB7JU-1">
           <mxGeometry x="1280" y="10" width="130" height="100" as="geometry" />
